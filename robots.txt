@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://id.pairwise.org/sitemap.xml
